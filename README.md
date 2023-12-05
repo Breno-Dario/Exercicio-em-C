@@ -1,2 +1,2 @@
-# Exercicio-em-C
+# 100-Exercicio-em-C
 Resolução
