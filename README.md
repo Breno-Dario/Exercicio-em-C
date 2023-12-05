@@ -1,0 +1,2 @@
+# Exercicio-em-C
+Resolução
